@@ -13,7 +13,7 @@ function BR2JSX (props) {
     }
   }
   return(
-    <div className="BR2JSX">{text}</div>
+    <div className="br">{text}</div>
   );
 }
 
